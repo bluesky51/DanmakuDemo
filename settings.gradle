@@ -1,0 +1,1 @@
+include ':app', ':DanmakuFlameMaster', ':ndkbitmap-armv5', ':ndkbitmap-armv7a', ':ndkbitmap-x86'
